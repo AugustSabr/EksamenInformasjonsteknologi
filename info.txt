@@ -1,0 +1,5 @@
+database encoding UTF8
+DB user:
+	role/name: Admin
+	superuser: no
+	password: Admin123
